@@ -1,25 +1,4 @@
 # FreeSign
 A Minecraft (Spigot) FreeSign Plugin!
 
-Permissions:
-
-USE SIGN:
-FreeSign.use
-
-CREATE SIGN:
-FreeSign.create
-
-RELOAD PLUGIN:
-FreeSign.reload
-
-ALL (ADMIN)
-FreeSign.*
-
-Commands:
-RELOAD PLUGIN:
-/FreeSign
-/fs
-
-How to create a FreeSign:
-[Free]
->>ID<<
+Copyright (C) JanCraftDJ 2018
