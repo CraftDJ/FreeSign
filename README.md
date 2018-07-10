@@ -1,7 +1,7 @@
 # FreeSign
 A Minecraft (Spigot) FreeSign Plugin!
 
-Permissions
+Permissions:
 
 USE SIGN:
 FreeSign.use
