@@ -21,7 +21,5 @@ RELOAD PLUGIN:
 /fs
 
 How to create a FreeSign:
-First Line:
 [Free]
-Second Line:
-Item ID
+>>ID<<
